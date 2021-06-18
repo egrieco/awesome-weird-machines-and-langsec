@@ -8,3 +8,14 @@ Start with the two following papers:
 
 * [Exploit Programming-Bratus.pdf](references/Exploit Programming-Bratus.pdf)
 * [Weird Machines, Exploitability, and Provable Unexploitability-Dullien.pdf](references/Weird Machines, Exploitability, and Provable Unexploitability-Dullien.pdf)
+
+## Further Reading
+
+* [Mismorphism: The Heart of the Weird Machine](references/mismorphism.pdf)
+* [Backdoors: Definition, Deniability & Detection](references/raid18_thomas.pdf)
+* [Exploits as Insecure Compilation](references/prisc-2020.pdf)
+* [Escalate Exploitability for More Secure Software Systems](references/V3_Escalate-Exploitability-for-More-Secure-Software-Systems.pdf)
+* [Towards Exploitability Assessment for Linux Kernel Vulnerabilities](references/Towards-Exploitability-Assessment-for-Linux-Kernel-Vulnerabilities.pdf)
+* [Proving un-exploitability of parsers](references/Dullien-Unexploitability-of-Parsers.pdf)
+* [Weird Machines as Insecure Compilation](references/FCS19_session_2_paper_4.pdf)
+* ['Weird Machine' patterns](references/2014BratusBilarWeirdMachinePatterns.pdf)
