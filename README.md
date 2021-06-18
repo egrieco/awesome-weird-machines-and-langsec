@@ -6,8 +6,8 @@ Cybersecurity has traditionally been pushed forward through practical research a
 
 Start with the two following papers:
 
-* [Exploit Programming-Bratus.pdf](references/Exploit Programming-Bratus.pdf)
-* [Weird Machines, Exploitability, and Provable Unexploitability-Dullien.pdf](references/Weird Machines, Exploitability, and Provable Unexploitability-Dullien.pdf)
+* [Exploit Programming: From Buffer Overflows to “Weird Machines” and Theory of Computation](references/Exploit-Programming-Bratus.pdf)
+* [Weird Machines, Exploitability, and Provable Unexploitability](references/Weird-Machines,-Exploitability,-and-Provable-Unexploitability-Dullien.pdf)
 
 ## Further Reading
 
